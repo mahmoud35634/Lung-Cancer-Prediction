@@ -57,11 +57,11 @@ Perform cross-validation to ensure model robustness.
 
 
 
-Results
+## Results
 The project demonstrates the effectiveness of machine learning algorithms in predicting lung cancer. The final model achieved an accuracy of XX%, precision of XX%, recall of XX%, and an F1 score of XX%. The web application provides a user-friendly interface for healthcare professionals to input patient data and receive immediate predictions.
 
 
-Future Work
+## Future Work
 Data Augmentation: Incorporating additional datasets to improve model accuracy.
 Feature Engineering: Exploring new features that could enhance prediction performance.
 Model Optimization: Fine-tuning hyperparameters and exploring advanced algorithms.
@@ -69,10 +69,10 @@ Integration: Collaborating with healthcare institutions for real-world testing a
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes relevant tests.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-For any questions or inquiries, please contact [yourname@example.com].
+## Contact
+For any questions or inquiries, please contact [m8564483@gmail.com].
 
 This README provides a comprehensive overview of your lung cancer prediction project, including installation instructions, usage details, and future work suggestions. Feel free to customize it further to match your project's specifics.
