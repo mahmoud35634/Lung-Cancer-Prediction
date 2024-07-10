@@ -16,7 +16,7 @@ The dataset used for this project includes patient information such as age, gend
 
 ## Usage
 <ol>
- 1. Data Preprocessing:
+ <h3>1. Data Preprocessing:</h3>
 
 - Load the dataset and clean the data.
 - Normalize and scale features.
@@ -28,25 +28,37 @@ The dataset used for this project includes patient information such as age, gend
 - Visualize data distributions and relationships.
 - Identify patterns and correlations.</ol>
 
-<ol></ol>
-
-3. Model Development:
+<ol>
+ 3. Model Development:
 
 - Split the data into training and testing sets.
 - Train various machine learning models (e.g., Logistic Regression, Decision Trees, Random Forest, SVM, etc.).
 - Evaluate model performance and select the best model.
 
-4. Model Evaluation:
+</ol>
+
+
+<ol>
+ 4. Model Evaluation:
 
 Use metrics like accuracy, precision, recall, and F1 score to evaluate the model.
 Perform cross-validation to ensure model robustness.
-Deployment:
+</ol>
 
-Develop a web application using Flask (or any other framework).
-Integrate the trained model for real-time predictions.
+
+
+<ol>
+ 5. Deployment:
+
+- Develop a web application using Flask (or any other framework).
+- Integrate the trained model for real-time predictions.
+</ol>
+
+
+
+
 Results
 The project demonstrates the effectiveness of machine learning algorithms in predicting lung cancer. The final model achieved an accuracy of XX%, precision of XX%, recall of XX%, and an F1 score of XX%. The web application provides a user-friendly interface for healthcare professionals to input patient data and receive immediate predictions.
-</ol>
 
 
 Future Work
