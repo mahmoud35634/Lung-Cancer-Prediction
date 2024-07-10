@@ -18,19 +18,21 @@ The dataset used for this project includes patient information such as age, gend
 <ol>
  1. Data Preprocessing:
 
-Load the dataset and clean the data.
-Normalize and scale features.
-Select relevant features for the model.
-Exploratory Data Analysis (EDA):
+- Load the dataset and clean the data.
+- Normalize and scale features.
+- Select relevant features for the model.
 
-Visualize data distributions and relationships.
-Identify patterns and correlations.
-Model Development:
+2. Exploratory Data Analysis (EDA):
 
-Split the data into training and testing sets.
-Train various machine learning models (e.g., Logistic Regression, Decision Trees, Random Forest, SVM, etc.).
-Evaluate model performance and select the best model.
-Model Evaluation:
+- Visualize data distributions and relationships.
+- Identify patterns and correlations.
+3. Model Development:
+
+- Split the data into training and testing sets.
+- Train various machine learning models (e.g., Logistic Regression, Decision Trees, Random Forest, SVM, etc.).
+- Evaluate model performance and select the best model.
+
+4. Model Evaluation:
 
 Use metrics like accuracy, precision, recall, and F1 score to evaluate the model.
 Perform cross-validation to ensure model robustness.
