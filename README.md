@@ -14,8 +14,9 @@ Deployment: Integrating the model into a web application for user-friendly predi
 The dataset used for this project includes patient information such as age, gender, smoking history, genetic factors, and medical imaging results. The data has been collected from reputable medical databases and research studies.
 
 
-Usage
-Data Preprocessing:
+## Usage
+<ol>
+ 1. Data Preprocessing:
 
 Load the dataset and clean the data.
 Normalize and scale features.
@@ -39,6 +40,8 @@ Develop a web application using Flask (or any other framework).
 Integrate the trained model for real-time predictions.
 Results
 The project demonstrates the effectiveness of machine learning algorithms in predicting lung cancer. The final model achieved an accuracy of XX%, precision of XX%, recall of XX%, and an F1 score of XX%. The web application provides a user-friendly interface for healthcare professionals to input patient data and receive immediate predictions.
+</ol>
+
 
 Future Work
 Data Augmentation: Incorporating additional datasets to improve model accuracy.
