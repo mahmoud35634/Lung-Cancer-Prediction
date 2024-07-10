@@ -23,13 +23,13 @@ The dataset used for this project includes patient information such as age, gend
 - Select relevant features for the model.
 </ol>
 <ol>
- 2. Exploratory Data Analysis (EDA):
+ <h3> 2. Exploratory Data Analysis (EDA):</h3>
 
 - Visualize data distributions and relationships.
 - Identify patterns and correlations.</ol>
 
 <ol>
- 3. Model Development:
+ <h3>3. Model Development:</h3>
 
 - Split the data into training and testing sets.
 - Train various machine learning models (e.g., Logistic Regression, Decision Trees, Random Forest, SVM, etc.).
@@ -39,7 +39,7 @@ The dataset used for this project includes patient information such as age, gend
 
 
 <ol>
- 4. Model Evaluation:
+ <h3>4. Model Evaluation:</h3>
 
 Use metrics like accuracy, precision, recall, and F1 score to evaluate the model.
 Perform cross-validation to ensure model robustness.
@@ -48,7 +48,7 @@ Perform cross-validation to ensure model robustness.
 
 
 <ol>
- 5. Deployment:
+ <h3>5. Deployment:</h3>
 
 - Develop a web application using Flask (or any other framework).
 - Integrate the trained model for real-time predictions.
