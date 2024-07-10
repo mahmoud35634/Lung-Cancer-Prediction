@@ -1,5 +1,6 @@
-Lung Cancer Prediction
-Overview
+## Lung Cancer Prediction
+
+# Overview
 Lung cancer is one of the leading causes of cancer-related deaths worldwide. Early detection is crucial for improving survival rates and treatment outcomes. This project aims to develop a predictive model to identify the likelihood of lung cancer using patient data. By leveraging machine learning algorithms, we can provide a tool that aids in the early detection and diagnosis of lung cancer.
 
 Features
