@@ -21,11 +21,15 @@ The dataset used for this project includes patient information such as age, gend
 - Load the dataset and clean the data.
 - Normalize and scale features.
 - Select relevant features for the model.
-
-2. Exploratory Data Analysis (EDA):
+</ol>
+<ol>
+ 2. Exploratory Data Analysis (EDA):
 
 - Visualize data distributions and relationships.
-- Identify patterns and correlations.
+- Identify patterns and correlations.</ol>
+
+<ol></ol>
+
 3. Model Development:
 
 - Split the data into training and testing sets.
